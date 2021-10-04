@@ -1,6 +1,70 @@
-# Hi there, I am Amartya Yadav.
+![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+<h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/iamartyaa/" target="_blank"> Amartya Yadav </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h1>
+<img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-### Glad to see you! ![visitors](https://visitor-badge.glitch.me/badge?page_id=${iamartyaa}.${iamartyaa/iamartyaa}) 
+A bit about Myself, I am <b>Amartya Yadav</b> pursuing my <b>Information Technology Degree</b> from Harcourt Butler Technical University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Competitive Programming, Open Source and Cloud Computing </b> but still, wish to explore many fields. ⚡
 
-### My GitHub Stats 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamartyaa&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<h3 align="center">A Passionate Python Developer | Competitive Programmer | Machine learning enthusiast | Technical Content Writer </h3>
+
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=iamartyaa&label=Profile%20views&color=6805D3&style=flat" alt="AmartyaYadav" /> </p></h3>
+   <div align="center">
+
+<h1>Technical Skills 🛠</h1>
+   
+Updating Soon.....
+
+<p align="center"> 
+<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+<img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
+ <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+ <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+ <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+ <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+ <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+ <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+ <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+ <img alt="npm" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+ <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+ <img alt="Kubernets" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+ <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+ <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+ <img alt="Microsoft Azure" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+ <img alt="VS Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ </p>
+
+  
+I believe in implementing the knowledge which I have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
+
+<h1 align="center">Projects</h1>
+
+
+
+
+| Project Name      | Description | 
+| :---:        |    :----   |  
+
+
+<h1 align="center">Let's Get Connected</h1>
+
+<div align="center">
+
+<a  href="https://www.linkedin.com/in/iamartyaa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/mesourav44" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="mailto:iamartyayadav@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+</div>
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=iamartyaa&show_icons=true&theme=dark&locale=en" alt="AmartyaYadav" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamartyaa&show_icons=true&theme=dark&locale=en&layout=compact" alt="AmartyaYadav" /></td>
+  </tr>
+</table>
+
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamartyaa&theme=dark" alt="AmartyaYadav" /></p>
+  </div>
+
+ [![Amartya Yadav's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=iamartyaa&theme=xcode)](https://git.io/iamartyaa)
+
