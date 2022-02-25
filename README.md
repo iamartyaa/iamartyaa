@@ -4,7 +4,7 @@
 
 A bit about Myself, I am <b>Amartya Yadav</b> pursuing my <b>Information Technology Degree</b> from Harcourt Butler Technical University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Competitive Programming, Open Source and Cloud Computing </b> but still, wish to explore many fields. ⚡
 
-<h3 align="center">A Passionate Python Developer | Competitive Programmer | Machine learning enthusiast | Technical Content Writer </h3>
+<h3 align="center">Competitive Programmer | Flutter & Python Developer | Technical Content Writer </h3>
 
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=iamartyaa&label=Profile%20views&color=6805D3&style=flat" alt="AmartyaYadav" /> </p></h3>
    <div align="center">
