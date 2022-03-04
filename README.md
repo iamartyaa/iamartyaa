@@ -41,6 +41,7 @@ I believe in implementing the knowledge which I have. Projects play a major role
 
 | Project Name      | Description | Link |
 | :---:        |    :----   | :---: |
+| Boyo Hotels App | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/BoyoHotels-App) |
 | HappyMeals App | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/HappyMeals-App) |
 | MyWallet App | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/MyWallet-App) |
 | Quiz App | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/Quiz-App) |
