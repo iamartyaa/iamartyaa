@@ -18,7 +18,6 @@ Updating Soon.....
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white" />
  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <img alt="Postman" src="https://img.shields.io/badge/postman-icon.svg?&style=for-the-badge&logo=Postman&ogoColor=white" />
-
  
  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
  
@@ -41,10 +40,11 @@ I believe in implementing the knowledge which I have. Projects play a major role
 
 | Project Name      | Description | Link |
 | :---:        |    :----   | :---: |
-| Boyo Hotels App | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/BoyoHotels-App) |
-| HappyMeals App | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/HappyMeals-App) |
-| MyWallet App | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/MyWallet-App) |
-| Quiz App | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/Quiz-App) |
+| Pirates | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/pirate_app) |
+| Ekart | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/shopapp) |
+| Boyo Hotels | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/BoyoHotels-App) |
+| HappyMeals | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/HappyMeals-App) |
+| MyWallet | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/MyWallet-App) |
 
 
 <h1 align="center">Let's Get Connected</h1>
