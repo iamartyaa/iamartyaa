@@ -2,7 +2,7 @@
 <h1 align="center" >Hi, I'm <a href="https://www.linkedin.com/in/iamartyaa/" target="_blank"> Amartya Yadav </a><img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px" height="30px"></h1>
 <img width="40%" align="right"   src="https://github.com/SauravMukherjee44/SauravMukherjee44/blob/03193437b82d681c9caa24657c4ebec746dc628f/workbench.svg" >
 
-A bit about Myself, I am <b>Amartya Yadav</b> pursuing my <b>Information Technology Degree</b> from Harcourt Butler Technical University, Currently in my Second-Year of B.Tech. As of now, I am focused on <b>Competitive Programming, Open Source and Cloud Computing </b> but still, wish to explore many fields. ⚡
+A bit about Myself, I am <b>Amartya Yadav</b> pursuing my <b>Information Technology Degree</b> from Harcourt Butler Technical University, Currently in my 3rd-Year of B.Tech. As of now, I am focused on <b>Competitive Programming, Open Source and Full Stack App Development </b> but still, wish to explore many fields. ⚡
 
 <h3 align="center">Competitive Programmer | Flutter & Python Developer | Technical Content Writer </h3>
 
@@ -33,26 +33,17 @@ Updating Soon.....
   
 I believe in implementing the knowledge which I have. Projects play a major role in showcasing your skills. They help in predicting skills of a person. So let's have a look at my project section.
 
-<h1 align="center">Projects</h1>
 
 
+<h1 align="center">Let's Get Connected</h1> 
 
+Follow if you liked my respositories and I'll make sure to visit yours :)
 
-| Project Name      | Description | Link |
-| :---:        |    :----   | :---: |
-| Pirates | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/pirate_app) |
-| Ekart | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/shopapp) |
-| Boyo Hotels | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/BoyoHotels-App) |
-| HappyMeals | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/HappyMeals-App) |
-| MyWallet | Flutter & Dart App | [GitHub Repo](https://github.com/iamartyaa/MyWallet-App) |
-
-
-<h1 align="center">Let's Get Connected</h1>
 
 <div align="center">
 
 <a  href="https://www.linkedin.com/in/iamartyaa/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/mesourav44" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
+<a href="https://twitter.com/evilsyee" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:iamartyayadav@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
 </div>
